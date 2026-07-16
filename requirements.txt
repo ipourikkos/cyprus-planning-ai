@@ -11,3 +11,4 @@ pyproj
 beautifulsoup4
 xlrd
 pypdf
+pydantic
